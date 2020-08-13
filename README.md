@@ -3,7 +3,7 @@ M326 - Objektorientiertes Design und Implementation
 
 Dieses Repository dient als Startpunkt für das Modul M326 - Objektorientiertes Design und Implementation.
 
-Es definiert die für die Schüler-Infrastruktur notwendigen Dienste (Docker-Container, siehe `docker-compose.yml).
+Es definiert die für die Schüler-Infrastruktur notwendigen Dienste (Docker-Container, siehe `docker-compose.yml`).
 
 Benutzung:
 
